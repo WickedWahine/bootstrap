@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #B6C25D;
+}
+
+a.navbar-brand {
+    color: black;
+}
+
+a.nav-link{
+    color: white;
+}
+
+h2 {
+    margin: 50px 0 10px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.feature-row {
+    text-align: center;
+    margin: 25px 0;
+    padding: 0 25px;
+}
+
+.feature-row p {
+    text-align: center;
+}
+
+table {
+    margin-top: 50px 0;
+}
+
